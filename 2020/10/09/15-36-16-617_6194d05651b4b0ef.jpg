@@ -1,0 +1,919 @@
+<!-- <html><head><title></title></head><body></body></html>  -->
+<!DOCTYPE HTML>
+<html>
+<!--
+Cross Builder V2.0
+page version: 
+by 网络媒体事业群办公室_商业体验中心
+合作请RTX shelleyhe
+-->
+<head>
+	<meta charset="gb2312">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="Keywords" content="">
+	<title>看见校园霸凌：公众认知调查数据报告</title>
+    <!-- //mat1.gtimg.com/www/mb/cb2/global/assets/css/crossbuilder.css
+         ../../../global/assets/css/crossbuilder.css
+    -->
+    <link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb2/global/assets/css/crossbuilder.css">    
+   	<link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/css/pbt_style_v.1.4.css">
+<link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/css/ms_hichart/hichart_style.css">
+<link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/css/mc_dianzan/dianzan_style_v1.0.css">
+    <!-- html5.js for IE less than 9 -->
+    <!--[if lt IE 9]>
+        <script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/html5.js"></script>
+    <![endif]-->
+
+    <style>
+       
+	        #frontPanel{
+            background-image:url(http://inews.gtimg.com/newsapp_ls/0/1180031939/0);
+        }
+			/* 背景颜色设置 */
+        html, .pbt_intro_wrapper.style-0 .box_icon{ background-color: #fafafa!important;}
+        
+        /* 整体颜色设置 */
+        div,span,p,a, h2, h3,h4{color: #555555!important;}
+        h2,h3,h4{border-color:#555555!important;}
+        /* 针对财经频道 */
+        @media only screen and (max-width: 480px){
+            /* 针对财经频道 */
+            .pbt_container.size_full {margin: 0px auto 10px auto; }
+        }
+
+    </style>
+</head>
+
+<body data-src="">
+<div id='wx_pic' style='margin:0 auto;display:none;'><img src='http://inews.gtimg.com/newsapp_ls/0/1179361294/0' /></div>
+<link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb/publish/assets/css/cb_toolbar_v2.css"><div class="cb_toolbar" id="logoPanel"><div class="mod_inner"><div class="logo"><a href="http://news.qq.com" class="newslogo"></a></div><div class="link"><ul><li><a href="http://www.qq.com" target="_blank">腾讯网首页</a></li><li class="end"><a href="http://www.qq.com/map/" target="_blank">网站导航</a></li></ul></div>
+            <script language="JavaScript">
+                var hdPic ={url:location.href,title:"0",pic: [], pic1: []};
+                 var cbtb_url = "";
+                    var login = {
+                        loginSuccess: function(){
+                            ptlogin2_onClose();
+                            cbtb_init();
+                        }
+                    };
+            </script>
+            <div class="shareList">
+                <div class="share_btn">
+                    <span>分享到：</span>
+                </div>
+                    <ul class="menu-bd">
+                        <li class="share2weibo" id="cb_share2weibo" title="转播腾讯微博"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTweibo"></a></li>
+                        <li class="share2qzone" id="cb_share2qzone" title="分享到我的QQ空间"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTzone"></a></li>
+                        <li class="share2qq" id="cb_share2qq" title="分享到QQ好友"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTQQ"></a></li>
+                        <li class="share2sina" id="cb_share2sina" title="转播到新浪微博"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTsina"></a></li>
+                        <li class="share2wx" id="cb_share2wx" title="分享到微信"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTwx"></a></li>
+                        <li class="share2wxf" id="cb_share2wxf" title="分享到朋友圈"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTwxf"></a></li>
+                    </ul>
+
+                <div class="tb_wx_share" id="cb_share_div" style="display:none;">
+                        <div class="tb_wx_share_triangle" id="cb_ts_triangle"></div>
+                        <div class="tb_wx_share_left"><img src="http://inews.gtimg.com/newsapp_ls/0/1179838135/0"></div>
+                        <div class="tb_wx_share_right">
+                          <ul>
+                            <li class="a"><div></div><p>扫一扫二维码</p></li>
+                            <li class="i"></li>
+                            <li class="b"><div></div><p>点击右上角图标</p></li>
+                            <li class="i"></li>
+                            <li class="c" id="cb_ts_wx"><div></div><p>发送给微信好友</p></li>
+                            <li class="d" id="cb_ts_wxf"><div></div><p>分享到朋友圈</p></li>
+                          </ul>
+                        </div>
+                    </div>
+            </div>
+            <script language="JavaScript" src="//mat1.gtimg.com/www/mb/cb/publish/assets/js/cb_share_v1.js"></script>
+        </div><div class="tb_login_content">
+                <div id="tb_login_content_in" style="display:none;">
+                    <a href="javascript:void(0);" id="http_login">
+                        [登录]
+                    </a>
+                </div>
+                <div id="tb_login_content_out" style="display:none;">
+                    <span>
+                        您好，
+                        <i id="tb_qq_uid">
+                        </i>
+                    </span>
+                    <a href="javascript:void(0);" id="http_logout">
+                        [退出]
+                    </a>
+                </div>
+            </div>
+            <div id="login_div" class="login_div">
+                <iframe id="login_frame" frameborder="0" scrolling="no"></iframe>
+            </div>
+            <div id="overlay"></div>
+        </div>
+        <script language="JavaScript" src="//imgcache.qq.com/ptlogin/ac/v9/js/ptloginout.js"></script>
+        <script language="JavaScript" src="//mat1.gtimg.com/www/mb/cb/publish/assets/js/cbtb_qq_wx_userlogin_v1.js" charset="utf-8"></script>
+        <script language="JavaScript">
+            cbtb_init();
+        </script><!-- Just For Mobile : FrontPage -->
+<div id="frontPanel" class="pbt_front_container p_front pbt_m_index anim">
+	<!-- 设置对齐方式:'align_left', 'align_mid', 'align_right' -->
+    <div class="pf_content align_mid">
+        <div class="pf_logo ani show">
+            <div class="pf_logo_box">
+                <img src="">
+            </div>
+            <div class="clearfix"></div>      
+        </div>
+        <div class="pf_title ani show">
+            <div class="pf_title_box">
+                <h2 class="COLOR_TITLE_STYLE"></h2>
+            </div>
+        </div>
+    </div>
+    <!-- 向上滑动 : 固定 Bottom-Pos  -->
+    <div class="pbt_fup"></div>
+</div>
+<!-- Main Content -->
+<div class="pbt_main_container pbt_m_main anim main_content">
+
+    <div class="pbt_container size_full">
+        <div class="pbt_one_grid">
+            <div class="pbt_img_wrap one init-banner">
+                <img class="MobileOrPC lazyCB" data-size="" data-original="" data-mobile-src="http://inews.gtimg.com/newsapp_ls/0/1179776751/0" data-mobile-size="870x250" data-pc-src="http://inews.gtimg.com/newsapp_ls/0/1179770623/0" data-pc-size="1920x260" >
+            </div>
+        </div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_intro_wrapper style-1">
+            <!-- 背景颜色 : 如果为 Default 则不设置 "background-color"；边框颜色：如果为 Default 则不设置 "border-color" -->
+            <div class="box_wrapper" style="background-color:#F1F1F1; border-color:#Default;">
+                <div class="box_icon top"><img src=""></div>
+                <div class="box_icon bottom"><img src=""></div>
+                <div class="pbt_text_wrap pc-style">                    
+                    <p>
+                        <!-- 标题颜色 及 标题文字 -->
+                        <span class="title" style="color:#ffffff!important; background-color:#4B4B4B!important">引言</span>
+                        <!-- PC端文字详情 -->
+                        <p style="text-indent: 2em;">学校本该是一个远离成人社会的无忧象牙塔，里面只有孩子们的欢声笑语。但事实上，长久以来公众都忽视了校园霸凌的存在，以及它从言语侮辱到肢体暴力的多样形态。<p style="text-indent: 2em;">究竟什么才算是校园霸凌？国内这类现象有多严重，人们又如何应对？3万6千名网友参与调查的反馈数据呈现校园霸凌的样貌。
+                    </p>
+                </div>
+                <div class="pbt_text_wrap mobile-style">
+                    <p>
+                        <!-- 标题颜色 及 标题文字 -->
+                        <span class="title" style="color:#ffffff!important; background-color:#4B4B4B!important">引言</span>
+                        <!-- Mobile端文字详情 -->
+                        <p style="text-indent: 2em;">学校本该是一个远离成人社会的无忧象牙塔，里面只有孩子们的欢声笑语。但事实上，长久以来公众都忽视了校园霸凌的存在，以及它从言语侮辱到肢体暴力的多样形态。<p style="text-indent: 2em;">究竟什么才算是校园霸凌？国内这类现象有多严重，人们又如何应对？3万6千名网友参与调查的反馈数据呈现校园霸凌的样貌。
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" >
+                        <img src="http://inews.gtimg.com/newsapp_ls/0/1179374431/0">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">排挤、造谣被识别度低，老师欺凌易被忽视</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">学术上，校园霸凌可以分为关系霸凌、言语霸凌、肢体霸凌、性霸凌、网络霸凌、反击型霸凌等，但人们很难依靠这些标准直接识别出霸凌行为。</p><p style="text-indent: 2em;">在本次调查中8成以上的受访者认为，“拳打脚踢扇耳光”、“威胁恐吓”、“下跪扒衣等侮辱行为”是校园霸凌，而一半受访者选择将“毁坏财物”、“孤立排挤”、“讽刺挖苦”、“恶作剧捉弄”“散布谣言”等行为视作校园霸凌。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <!--长页hichart图表模块 start-->
+        <div class="hiChart">
+            <div class="titleMsg"><p>你认为以下哪些行为属于校园霸凌？（单位：%）</p></div>
+            <div class="uint">单位:%</div>
+            <div class="content">
+                <div class="chart"></div>
+            </div> 
+            <div class="tip">*点击图表查看详情</div>
+        </div>
+        <!--长页hichart图表模块 end-->
+    </div>
+
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">在该问题的开放式答案中，出现了不少描述“老师对学生欺负”的反馈。受访者指出，有的老师会对学生间的欺凌不理不睬，有色眼镜差别对待学生，甚至挑唆学生针对某一个孩子进行群体歧视。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div><div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- line wrapper -->
+            <div class="pbt_sperate_line_wrap pbt_line_dot"></div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" >
+                        <img src="http://inews.gtimg.com/newsapp_ls/0/1179402853/0">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">女性对霸凌识别较敏感，为父母者更为担心</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">事实上，如果遭遇肢体上的暴力、有人身危险，人们很容易就能知道自己遇到了校园霸凌，而一旦遇到同学的排挤冷淡、谣言侵扰，人们就开始犹豫用“校园霸凌”这个词来说这些行为是否过于严重。</p><p style="text-indent: 2em;">调查发现，“散布谣言”、“孤立排挤”、“讽刺挖苦”这些霸凌行为更容易被女性识别出来。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <!--长页hichart图表模块 start-->
+        <div class="hiChart">
+            <div class="titleMsg"><p>不同性别受访者对校园霸凌行为认知差异：（单位/%）</p></div>
+            <div class="uint">单位:%</div>
+            <div class="content">
+                <div class="chart"></div>
+            </div> 
+            <div class="tip">*点击图表查看详情</div>
+        </div>
+        <!--长页hichart图表模块 end-->
+    </div>
+
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">同时，30岁以上年龄段的人群对霸凌行为最为敏感，而20岁以下的受访者对于“孤立排挤”、“毁坏财物”等行为的认知度明显低于其他年龄段人群。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div><div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- line wrapper -->
+            <div class="pbt_sperate_line_wrap pbt_line_dot"></div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" >
+                        <img src="http://inews.gtimg.com/newsapp_ls/0/1179476864/0">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">霸凌频繁发生在初中，多在厕所等隐秘场合</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">7成以上受访者认为，校园霸凌最常出现在初中阶段，其次是小学、高中。只有极少数的受访者认为，校园霸凌会发生在大学及以上阶段。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <!--长页hichart图表模块 start-->
+        <div class="hiChart">
+            <div class="titleMsg"><p>你观察到霸凌行为最常出现在什么阶段：（单位/%）</p></div>
+            <div class="uint">单位:%</div>
+            <div class="content">
+                <div class="chart"></div>
+            </div> 
+            <div class="tip">*点击图表查看详情</div>
+        </div>
+        <!--长页hichart图表模块 end-->
+    </div>
+
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">调查发现，校园霸凌最容易发生在学校厕所、宿舍等私密场所，而认为校园霸凌最常发生在教室操场等学校公共场所、发生在学校周边地方的受访者基本持平，各占四分之一。只有2.8%的受访者认为，校园霸凌最常发生在远离校园的地方。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <!--长页hichart图表模块 start-->
+        <div class="hiChart">
+            <div class="titleMsg"><p>你观察到霸凌行为最经常发生在什么地方：（单位/%）</p><p><br/></p></div>
+            <div class="uint">单位:%</div>
+            <div class="content">
+                <div class="chart"></div>
+            </div> 
+            <div class="tip">*点击图表查看详情</div>
+        </div>
+        <!--长页hichart图表模块 end-->
+    </div>
+<div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- line wrapper -->
+            <div class="pbt_sperate_line_wrap pbt_line_dot"></div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" >
+                        <img src="http://inews.gtimg.com/newsapp_ls/0/1179495378/0">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">同性间霸凌占大多数，男生更容易受到伤害</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">校园霸凌最容易发生在相同性别之间，而异性相侵的现象较为少见，但男生总是更容易受遭受霸凌：“男生欺负男生”是最常见现象，而“男生被女生欺负”的概率要比“女生被男生欺负”的概率大。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <!--长页hichart图表模块 start-->
+        <div class="hiChart">
+            <div class="titleMsg"><p>你观察到霸凌行为经常发生在什么人群之间：（单位/%）</p><p><br/></p></div>
+            <div class="uint">单位:%</div>
+            <div class="content">
+                <div class="chart"></div>
+            </div> 
+            <div class="tip">*点击图表查看详情</div>
+        </div>
+        <!--长页hichart图表模块 end-->
+    </div>
+
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>在对校园霸凌有不同体验的人群中，旁观者与亲历者对霸凌行为发生人群的认知与整体结论一致。但对比霸凌亲历者们的数据，通过生活或媒体渠道获知校园霸凌的旁观者们更容易高估霸凌行为发生在女生之间的可能性（超30%）——这可能与网络上女生间扇耳光、扒衣服等视频的传播力大有关。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div><div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- line wrapper -->
+            <div class="pbt_sperate_line_wrap pbt_line_dot"></div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" >
+                        <img src="http://inews.gtimg.com/newsapp_ls/0/1179506946/0">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">1/4网友欺负过别人，背后往往有社会青年</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">3万6千多名受访者中，超过一半的人亲身经历过校园霸凌，其中有1/4的人欺负过别人，而其中的绝大部分霸凌者也都被别人欺负过。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <!--长页hichart图表模块 start-->
+        <div class="hiChart">
+            <div class="titleMsg"><p>校园霸凌网络调查受访者身份：</p></div>
+            <div class="uint">单位:%</div>
+            <div class="content">
+                <div class="chart"></div>
+            </div> 
+            <div class="tip">*点击图表查看详情</div>
+        </div>
+        <!--长页hichart图表模块 end-->
+    </div>
+
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">同时，3/4的受访者观察到，校园霸凌的施暴者往往是学生与社会青年混在一起，有社会上的“大哥”“大姐”在背后撑腰，或许给霸凌者长了欺负别人的气焰。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div><div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- line wrapper -->
+            <div class="pbt_sperate_line_wrap pbt_line_dot"></div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" >
+                        <img src="http://inews.gtimg.com/newsapp_ls/0/1179525777/0">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">霸凌者对其行为认知低，偶尔几次不算欺凌</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">霸凌者很难认识到自己行为的严重性。鼓动伙伴孤立同学、散布谣言毁坏他人名誉、说点不好听的话挖苦下同学、弄些恶作剧捉弄下别人——这在他们眼中很难被视为霸凌。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <!--长页hichart图表模块 start-->
+        <div class="hiChart">
+            <div class="titleMsg"><p>欺凌者与被欺凌者在霸凌行为认知的差异：（单位）</p></div>
+            <div class="uint">单位:%</div>
+            <div class="content">
+                <div class="chart"></div>
+            </div> 
+            <div class="tip">*点击图表查看详情</div>
+        </div>
+        <!--长页hichart图表模块 end-->
+    </div>
+
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">大部分霸凌者都认可霸凌行为“经常发生”会让人难以承受的结论，但是他们却倾向于认为“偶尔几次”的霸凌行为是可以被接受的，而事实上很多人只要遭遇一两次霸凌行为就足以感到难受。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div><div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- line wrapper -->
+            <div class="pbt_sperate_line_wrap pbt_line_dot"></div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" >
+                        <img src="http://inews.gtimg.com/newsapp_ls/0/1179632730/0">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">受伤者认为是没事找茬，霸凌者说性格冲突</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">调查发现霸凌行为发生的主要原因是没事找茬，但霸凌者要比被霸凌者更容易认为性格冲突导致。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <!--长页hichart图表模块 start-->
+        <div class="hiChart">
+            <div class="titleMsg"><p>欺凌者与被欺凌者在霸凌原因认知的差异：（单位/%）</p></div>
+            <div class="uint">单位:%</div>
+            <div class="content">
+                <div class="chart"></div>
+            </div> 
+            <div class="tip">*点击图表查看详情</div>
+        </div>
+        <!--长页hichart图表模块 end-->
+    </div>
+<div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- line wrapper -->
+            <div class="pbt_sperate_line_wrap pbt_line_dot"></div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" >
+                        <img src="http://inews.gtimg.com/newsapp_ls/0/1179672046/0">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">被霸凌多放弃学业，霸凌者低估造成的伤害</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">校园霸凌会对被霸凌者的学业产生严重影响。38.2%的受访者观察到被霸凌者彻底放弃学业，30%的受访者观察到被霸凌者转学到其他学校。24.6%的受访者观察到被霸凌者短期不来上学。“没有影响”四个字，很难做到。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <!--长页hichart图表模块 start-->
+        <div class="hiChart">
+            <div class="titleMsg"><p>欺凌者与被欺凌者在霸凌影响认知的差异：（单位/%）</p></div>
+            <div class="uint">单位:%</div>
+            <div class="content">
+                <div class="chart"></div>
+            </div> 
+            <div class="tip">*点击图表查看详情</div>
+        </div>
+        <!--长页hichart图表模块 end-->
+    </div>
+
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">霸凌者更容易低估霸凌行为对被霸凌者学业的影响，这也许意味着霸凌者对自己给他人造成的伤害有一定钝感力。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div><div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- line wrapper -->
+            <div class="pbt_sperate_line_wrap pbt_line_dot"></div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" >
+                        <img src="http://inews.gtimg.com/newsapp_ls/0/1179695272/0">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">教室也是主要发生地，选择“打回去”超过告老师</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">受新闻、视频等媒体内容影响，我们明显低估了霸凌行为发生在教室操场等校园公共场所的概率。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="640x444" data-original="http://inews.gtimg.com/newsapp_ls/0/1180008725/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">在调查中，身份为被欺凌者的网友认为霸凌行为发生在教室操场等公共场所的比例就要高于其他场合。人们总是倾向于认为，如果霸凌行为很难发生在老师眼皮子底下，即使发生也会很快被老师制止。</p><p style="text-indent: 2em;">如果遭遇校园霸凌，有1/4的被霸凌者会选择独自沉默，有接近一半的被霸凌者会选择“打回去”，选择告诉家长、告诉老师的人群比例在这两者之间。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <!--长页hichart图表模块 start-->
+        <div class="hiChart">
+            <div class="titleMsg"><p>遭遇霸凌行为会采取什么样的措施：（多选/%）</p><p><br/></p></div>
+            <div class="uint">单位:%</div>
+            <div class="content">
+                <div class="chart"></div>
+            </div> 
+            <div class="tip">*点击图表查看详情</div>
+        </div>
+        <!--长页hichart图表模块 end-->
+    </div>
+<div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- line wrapper -->
+            <div class="pbt_sperate_line_wrap pbt_line_dot"></div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" >
+                        <img src="http://inews.gtimg.com/newsapp_ls/0/1179724472/0">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">家长归咎于法规不完善，年轻人强调家庭教育问题</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">很少人会认为霸凌行为不可避免，一半的受访者都将“法规制度的不完善”视作霸凌出现的根本原因。而比起指责学校做得不够好，更多的人认为还是家长的教育出了问题。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <!--长页hichart图表模块 start-->
+        <div class="hiChart">
+            <div class="titleMsg"><p>不同年龄受访者对霸凌行为根本原因认知差异：（单位/%）</p></div>
+            <div class="uint">单位:%</div>
+            <div class="content">
+                <div class="chart"></div>
+            </div> 
+            <div class="tip">*点击图表查看详情</div>
+        </div>
+        <!--长页hichart图表模块 end-->
+    </div>
+
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-indent: 2em;">20岁以下的人群更倾向于将霸凌行为发生的根本原因归责于家长教育的问题，而30岁以上的人群更倾向于归责于法规制度与学校引导的缺陷。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div><div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- line wrapper -->
+            <div class="pbt_sperate_line_wrap pbt_line_normal"></div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_intro_wrapper style-1">
+            <!-- 背景颜色 : 如果为 Default 则不设置 "background-color"；边框颜色：如果为 Default 则不设置 "border-color" -->
+            <div class="box_wrapper" style="background-color:#F1F1F1; border-color:#Default;">
+                <div class="box_icon top"><img src=""></div>
+                <div class="box_icon bottom"><img src=""></div>
+                <div class="pbt_text_wrap pc-style">                    
+                    <p>
+                        <!-- 标题颜色 及 标题文字 -->
+                        <span class="title" style="color:#ffffff!important; background-color:#4B4B4B!important">结语</span>
+                        <!-- PC端文字详情 -->
+                        感谢您对“校园霸凌”的关注，以及对反对校园霸凌的支持，希望我们可以共同努力还校园一片清净和谐。
+                    </p>
+                </div>
+                <div class="pbt_text_wrap mobile-style">
+                    <p>
+                        <!-- 标题颜色 及 标题文字 -->
+                        <span class="title" style="color:#ffffff!important; background-color:#4B4B4B!important">结语</span>
+                        <!-- Mobile端文字详情 -->
+                        感谢您对“校园霸凌”的关注，以及对反对校园霸凌的支持，希望我们可以共同努力还校园一片清净和谐。
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>数据分析：邹碧颖 毛迪</p><p>设计：郭宇</p><p>问卷设计支持：中国人民大学统计调查协会</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="600x600" data-original="http://inews.gtimg.com/newsapp_ls/0/1179759997/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>    <!-- 版权页  --> 
+    <div id="copyrightPanel">
+        <div class="just-pc">
+            <p>Copyright &copy; 1998 - 2017 Tencent. All Rights Reserved</p>
+            <p>腾讯公司 版权所有</p>
+        </div>
+                <div class="just-mobile">
+            <!-- data-init : if (默认设置 'default'), else if (用户上传设置 'user'), else if (不添加设置 'null') -->
+                <div class="box-img" data-init="default">                
+                <img class="lazyCB" data-size="266x66" data-original="http://inews.gtimg.com/newsapp_ls/0/248733672/0">
+            </div>
+        </div>
+            </div>     
+    <!-- 版权页 End  -->  
+</div>
+<!-- Button : Goto Top -->
+<div id="pbt_backToTop" style="background-color:#eeeeee; visibility:visible;"></div>
+
+<script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/jquery-1.10.2.min.js"></script>        <!-- 必需加载 ：jQuery -->
+<script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/cbtools.1.0.js"></script>              <!-- Global Tools -->
+<script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/jquery.lazyload.js"></script>          <!-- 必需加载 ：lazyload -->
+<script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/require.js"></script>
+<script src="//mat1.gtimg.com/www/mb/cb/publish/assets_auto/js/api_v2.js" charset="utf-8"></script>
+<!-- 微信登陆态获取-->
+<script src="//mat1.gtimg.com/www/mb/cb2/publish/js/comment_v3.js"></script>
+
+<script type="text/javascript">
+var device = '';
+var chartDataArr = [];
+
+chartDataArr.push('{"id":"3_19","type":"0","isEndwise":0,"isAnimation":"true","isUnit":"","data":[{"title":"\u62f3\u6253\u811a\u8e22\u6247\u8033\u5149","scale":"91.90"},{"title":"\u5a01\u80c1\u6050\u5413","scale":"86.80"},{"title":"\u4e0b\u8dea\u6252\u8863\u7b49\u4fae\u8fb1\u884c\u4e3a","scale":"85.10"},{"title":"\u8eab\u4f53\u6027\u9a9a\u6270","scale":"74.30"},{"title":"\u810f\u8bdd\u8fb1\u9a82","scale":"73.20"},{"title":"\u6bc1\u574f\u8d22\u7269","scale":"57.70"},{"title":"\u5b64\u7acb\u6392\u6324","scale":"55.10"},{"title":"\u8bbd\u523a\u6316\u82e6","scale":"54.70"},{"title":"\u6076\u4f5c\u5267\u6349\u5f04","scale":"50.70"},{"title":"\u6563\u5e03\u8c23\u8a00","scale":"49.50"},{"title":"","scale":""},{"title":"","scale":""}],"color":"#0ca9ee"}');   
+
+chartDataArr.push('{"id":"3_19","type":"1","isEndwise":0,"isAnimation":"true","isUnit":"","data":[{"title":"\u6563\u5e03\u8c23\u8a00","scaleA":"40.48","scaleB":"66.65"},{"title":"\u5b64\u7acb\u6392\u6324","scaleA":"46.85","scaleB":"70.81"},{"title":"\u8bbd\u523a\u6316\u82e6","scaleA":"49.66","scaleB":"64.44"},{"title":"\u6076\u4f5c\u5267\u6349\u5f04","scaleA":"45.99","scaleB":"59.61"},{"title":"\u8eab\u4f53\u6027\u9a9a\u6270","scaleA":"70.07","scaleB":"82.35"},{"title":"\u810f\u8bdd\u8fb1\u9a82","scaleA":"69.91","scaleB":"79.51"},{"title":"\u5a01\u80c1\u6050\u5413","scaleA":"86.06","scaleB":"88.09"},{"title":"\u6bc1\u574f\u8d22\u7269","scaleA":"54.97","scaleB":"62.84"}],"titleA":"\u7537\u6027\u53d7\u8bbf\u8005","colorA":"#f6544c","titleB":"\u5973\u6027\u53d7\u8bbf\u8005","colorB":"#71bb6d"}');   
+
+chartDataArr.push('{"id":"3_18","type":"0","image":null,"isAnimation":"true","isScale":"true","isUnit":"","data":[{"title":"\u521d\u4e2d","scale":"73.60","color":"#c4234c"},{"title":"\u5c0f\u5b66","scale":"14.80","color":"#fa9a40"},{"title":"\u9ad8\u4e2d","scale":"10.90","color":"#ffde15"},{"title":"\u5927\u5b66","scale":"0.80","color":"#84cff6"},{"title":"","scale":"","color":"#ffde15"},{"title":"","scale":"","color":"#fff197"},{"title":"","scale":"","color":"#385fb4"},{"title":"","scale":"","color":"#0ca9ee"}],"colorCfg":"#c4234c,#fa9a40,#ffde15,#84cff6,#ffde15,#fff197,#385fb4,#0ca9ee"}');   
+
+chartDataArr.push('{"id":"3_18","type":"0","image":null,"isAnimation":"true","isScale":"true","isUnit":"","data":[{"title":"\u5395\u6240\u5bbf\u820d\u7b49\u6821\u56ed\u79c1\u5bc6\u573a\u6240","scale":"46.70","color":"#c4234c"},{"title":"\u6559\u5ba4\u64cd\u573a\u7b49\u6821\u56ed\u516c\u5171\u573a\u6240","scale":"25.20","color":"#fa9a40"},{"title":"\u5b66\u6821\u5468\u8fb9\u5730\u65b9","scale":"25.30","color":"#fff197"},{"title":"\u79bb\u5b66\u6821\u8f83\u8fdc\u7684\u5730\u65b9","scale":"2.80","color":"#84cff6"},{"title":"","scale":"","color":"#ffde15"},{"title":"","scale":"","color":"#fff197"},{"title":"","scale":"","color":"#385fb4"},{"title":"","scale":"","color":"#0ca9ee"}],"colorCfg":"#c4234c,#fa9a40,#fff197,#84cff6,#ffde15,#fff197,#385fb4,#0ca9ee"}');   
+
+chartDataArr.push('{"id":"3_18","type":"0","image":null,"isAnimation":"true","isScale":"true","isUnit":"","data":[{"title":"\u540c\u6027\u4e4b\u95f4\uff0c\u88ab\u9738\u51cc\u8005\u4ee5\u7537\u751f\u5c45\u591a","scale":"68.90","color":"#c4234c"},{"title":"\u540c\u6027\u4e4b\u95f4\uff0c\u88ab\u9738\u51cc\u8005\u4ee5\u5973\u751f\u5c45\u591a","scale":"21.60","color":"#fa9a40"},{"title":"\u5f02\u6027\u4e4b\u95f4\uff0c\u88ab\u9738\u51cc\u8005\u4ee5\u7537\u751f\u5c45\u591a","scale":"4.90","color":"#fff197"},{"title":"\u5f02\u6027\u4e4b\u95f4\uff0c\u88ab\u9738\u51cc\u8005\u4ee5\u5973\u751f\u5c45\u591a","scale":"4.60","color":"#84cff6"},{"title":"","scale":"","color":"#ffde15"},{"title":"","scale":"","color":"#fff197"},{"title":"","scale":"","color":"#385fb4"},{"title":"","scale":"","color":"#0ca9ee"}],"colorCfg":"#c4234c,#fa9a40,#fff197,#84cff6,#ffde15,#fff197,#385fb4,#0ca9ee"}');   
+
+chartDataArr.push('{"id":"3_19","type":"0","isEndwise":0,"isAnimation":"true","isUnit":"","data":[{"title":"\u6211\u662f\u65c1\u89c2\u8005\uff0c\u751f\u6d3b\u4e2d\u6216\u5a92\u4f53\u4e0a\u5f97\u77e5","scale":"40.10"},{"title":"\u6211\u88ab\u522b\u4eba\u6b3a\u8d1f\u8fc7","scale":"35.70"},{"title":"\u88ab\u522b\u4eba\u6b3a\u8d1f\u8fc7\uff0c\u4e5f\u6b3a\u8d1f\u8fc7\u522b\u4eba","scale":"20.30"},{"title":"\u6211\u6b3a\u8d1f\u8fc7\u522b\u4eba","scale":"3.90"},{"title":"","scale":""},{"title":"","scale":""},{"title":"","scale":""},{"title":"","scale":""},{"title":"","scale":""},{"title":"","scale":""},{"title":"","scale":""},{"title":"","scale":""}],"color":"#0ca9ee"}');   
+
+chartDataArr.push('{"id":"3_19","type":"1","isEndwise":0,"isAnimation":"true","isUnit":"","data":[{"title":"\u6563\u5e03\u8c23\u8a00","scaleA":"31.93","scaleB":"50.34"},{"title":"\u6076\u4f5c\u5267\u6349\u5f04","scaleA":"35.86","scaleB":"55.10"},{"title":"\u5b64\u7acb\u6392\u6324","scaleA":"38.40","scaleB":"58.18"},{"title":"\u8bbd\u523a\u6316\u82e6","scaleA":"40.88","scaleB":"58.84"},{"title":"\u6bc1\u574f\u8d22\u7269","scaleA":"42.60","scaleB":"58.23"},{"title":"\u8eab\u4f53\u6027\u9a9a\u6270","scaleA":"56.85","scaleB":"69.32"},{"title":"\u810f\u8bdd\u8fb1\u9a82","scaleA":"57.47","scaleB":"75.09"},{"title":"\u62f3\u6253\u811a\u8e22\u6247\u8033\u5149","scaleA":"85.62","scaleB":"88.90"}],"titleA":"\u6211\u6b3a\u8d1f\u8fc7\u522b\u4eba","colorA":"#f6544c","titleB":"\u6211\u88ab\u522b\u4eba\u6b3a\u8d1f\u8fc7","colorB":"#71bb6d"}');   
+
+chartDataArr.push('{"id":"3_19","type":"1","isEndwise":0,"isAnimation":"true","isUnit":"","data":[{"title":"\u6ca1\u4e8b\u627e\u832c","scaleA":"66.00","scaleB":"78.66"},{"title":"\u6027\u683c\u51b2\u7a81","scaleA":"22.44","scaleB":"13.34"},{"title":"\u60c5\u611f\u7ea0\u7eb7","scaleA":"7.71","scaleB":"4.12"},{"title":"\u91d1\u94b1\u7ea0\u7eb7","scaleA":"3.85","scaleB":"3.88"},{"title":"","scaleA":"","scaleB":""},{"title":"","scaleA":"","scaleB":""},{"title":"","scaleA":"","scaleB":""},{"title":"","scaleA":"","scaleB":""}],"titleA":"\u6211\u6b3a\u8d1f\u8fc7\u522b\u4eba","colorA":"#f6544c","titleB":"\u6211\u88ab\u522b\u4eba\u6b3a\u8d1f\u8fc7","colorB":"#71bb6d"}');   
+
+chartDataArr.push('{"id":"3_19","type":"1","isEndwise":0,"isAnimation":"true","isUnit":"","data":[{"title":"\u5f7b\u5e95\u653e\u5f03\u5b66\u4e1a","scaleA":"28.49","scaleB":"40.83"},{"title":"\u8f6c\u5b66\u5230\u5176\u4ed6\u5b66\u6821","scaleA":"28.95","scaleB":"27.85"},{"title":"\u77ed\u671f\u4e0d\u6765\u4e0a\u5b66","scaleA":"23.71","scaleB":"25.01"},{"title":"\u6ca1\u6709\u5f71\u54cd","scaleA":"18.75","scaleB":"6.31"},{"title":"","scaleA":"","scaleB":""},{"title":"","scaleA":"","scaleB":""},{"title":"","scaleA":"","scaleB":""},{"title":"","scaleA":"","scaleB":""}],"titleA":"\u6211\u6b3a\u8d1f\u8fc7\u522b\u4eba","colorA":"#f6544c","titleB":"\u6211\u88ab\u522b\u4eba\u6b3a\u8d1f\u8fc7","colorB":"#71bb6d"}');   
+
+chartDataArr.push('{"id":"3_18","type":"0","image":null,"isAnimation":"true","isScale":"true","isUnit":"","data":[{"title":"\u201c\u6253\u56de\u53bb\u201d","scale":"46.15","color":"#c4234c"},{"title":"\u62a5\u8b66","scale":"36.90","color":"#fa9a40"},{"title":"\u544a\u8bc9\u5bb6\u4eba","scale":"28.83","color":"#fff197"},{"title":"\u544a\u8bc9\u8001\u5e08","scale":"27.11","color":"#84cff6"},{"title":"\u72ec\u81ea\u6c89\u9ed8","scale":"25.81","color":"#a8e186"},{"title":"\u544a\u8bc9\u670b\u53cb","scale":"20.46","color":"#71bb6d"},{"title":"","scale":"","color":"#71bb6d"},{"title":"","scale":"","color":"#0ca9ee"}],"colorCfg":"#c4234c,#fa9a40,#fff197,#84cff6,#a8e186,#71bb6d,#71bb6d,#0ca9ee"}');   
+
+chartDataArr.push('{"id":"3_19","type":"1","isEndwise":0,"isAnimation":"true","isUnit":"","data":[{"title":"\u5bb6\u957f\u6559\u80b2\u4e0d\u591f","scaleA":"22.23","scaleB":"36.09"},{"title":"\u5b66\u6821\u5f15\u5bfc\u4e0d\u591f","scaleA":"17.68","scaleB":"14.32"},{"title":"\u5b69\u5b50\u95f4\u4e0d\u53ef\u907f\u514d","scaleA":"5.49","scaleB":"11.20"},{"title":"\u6cd5\u89c4\u5236\u5ea6\u4e0d\u5b8c\u5584","scaleA":"54.60","scaleB":"38.40"},{"title":"","scaleA":"","scaleB":""},{"title":"","scaleA":"","scaleB":""},{"title":"","scaleA":"","scaleB":""},{"title":"","scaleA":"","scaleB":""}],"titleA":"40\u5c81\u4ee5\u4e0a","colorA":"#f6544c","titleB":"20\u5c81\u4ee5\u4e0b","colorB":"#71bb6d"}');   
+
+$(function() {
+		try{
+		//分享
+		var wxShareUrl = "http://news.qq.com/cross/20170224/2mMSD706.html";
+		if(window.location.host.indexOf('m.')=="0" || wxShareUrl==""){
+			var wxShareUrl= window.location.href;
+			wxShareUrl = wxShareUrl.replace(window.location.hash,"");
+			wxShareUrl = wxShareUrl.replace(window.location.search,"");
+		}
+		cbApi.wexin("http://inews.gtimg.com/newsapp_ls/0/1179361294/0",wxShareUrl,"看见校园霸凌：公众认知调查数据报告","1/4网友欺负过同学，背后往往有社会青年；同性别间校园霸凌占7成，男生更易受伤害。");
+	}catch(e){}
+
+    var page = {
+        init : function(){
+            requirejs.config({
+                baseUrl: '//mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/js/',        //* Set : base-root :: //mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/js/ 
+                paths: {
+                    "global-tools": "//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools"   //* Set : my-define-src`
+                }
+            });
+
+            // Start loading the main app file.
+            requirejs(['Main_v3.6']);
+        }
+    }
+
+    page.init();
+});
+
+</script>
+	<script language="javascript" src="//mat1.gtimg.com/ping.js"></script>
+	<script language="javascript">
+	if(typeof(pgvMain) == 'function') pgvMain();
+	</script>
+	</body>
+</html>
+<!--[if !IE]>|xGv00|cbef6e733508e94c0f7a1b55978fc086<![endif]-->
